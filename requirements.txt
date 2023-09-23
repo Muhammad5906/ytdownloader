@@ -1,0 +1,9 @@
+streamlit==0.86.0
+threading==0.1
+youtube_transcript_api==0.4.1
+instadown==0.1.8
+pytube==11.0.0
+moviepy==1.0.3
+sqlite3==2.6.0
+re==2.2.1
+hydralit_components==0.1.0
